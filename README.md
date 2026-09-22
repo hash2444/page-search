@@ -2,6 +2,8 @@
 
 > A browser add-on that highlights every match of a word on the page and jumps between them.
 
+[![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
 Like `Ctrl+F`, but with an overview: type a word and every hit is highlighted right away, the current hit gets its own colour. Works in Chrome, Edge, Opera and other Chromium browsers.
 
 ## What it does
@@ -23,6 +25,8 @@ New to this? Follow **[SETUP-HELP.md](SETUP-HELP.md)** - it walks you through in
 
 - Browsers do not allow add-ons on internal pages (`chrome://...`, the extension store, the new-tab page) - a hint is shown there instead.
 - Content inside foreign embedded frames (some ads) is not searched.
+
+![preview](page-search.png)
 
 ---
 
